@@ -1,0 +1,48 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.main{
+	height:100%;
+	width:100%;
+}
+.header{
+	padding:10px;
+	background-color:#999999
+}
+.social{
+   
+    float:right;
+	margin-right:20px;
+
+
+	
+}
+.social a img:hover{
+	transform: translatex(-5px);
+	
+	
+}
+a img{
+	border-radius:50%;
+}
+/*.footer{
+	padding:10px;
+	
+}*/
+.logo{
+	padding-left:20px;
+	font-size: 28px;
+}
+img:hover{
+	transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+
